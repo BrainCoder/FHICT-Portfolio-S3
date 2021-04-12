@@ -25,3 +25,4 @@ For the 3rd semester of my IT study at Fontys I have to keep a portfolio to show
 - [[IoT communication protocols]]
 
 ### Version Control
+- [[Git Branching Model]]
