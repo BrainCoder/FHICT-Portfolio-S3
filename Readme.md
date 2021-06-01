@@ -13,6 +13,7 @@ For the 3rd semester of my IT study at Fontys I have to keep a portfolio to show
 - Vorig semester in porto verwerken
 
 ### LD.05 - Design
+- [[notification_desing_pattern_research]]
 
 ### LD.06 - API en Communicatieprotocollen
 - [[Philips Hue API]]
