@@ -4,15 +4,17 @@ For the 3rd semester of my IT study at Fontys I have to keep a portfolio to show
 ## Learning Outcomes
 ### LD.01 - Ontwikkelmethoden
 
+
 ### LD.02 - Analyse
 - [[IoT communication protocols]]
 
 ### LD.03 - Ontwerp
 
+
 ### LD.04 - OO
 - Vorig semester in porto verwerken
 
-### LD.05 - Design
+### LD.05 - Design Patterns
 - [[notification_desing_pattern_research]]
 
 ### LD.06 - API en Communicatieprotocollen
