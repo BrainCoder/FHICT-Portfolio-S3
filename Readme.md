@@ -3,16 +3,16 @@ For the 3rd semester of my IT study at Fontys I have to keep a portfolio to show
 
 ## Learning Outcomes
 ### LD.01 - Ontwikkelmethoden
-
+- [[Retrospective]]
 
 ### LD.02 - Analyse
 - [[IoT communication protocols]]
 
 ### LD.03 - Ontwerp
-
+- [[biercool Fridge Push Service]]
 
 ### LD.04 - OO
-- Vorig semester in porto verwerken
+- [[Parts Inventory Managment]]
 
 ### LD.05 - Design Patterns
 - [[notification_desing_pattern_research]]
@@ -33,4 +33,4 @@ For the 3rd semester of my IT study at Fontys I have to keep a portfolio to show
 - [[Presentatie Voortgang]]
 
 ### PO.03 - Leervaardigheden
-
+- [[notification_desing_pattern_research]]

@@ -3,8 +3,6 @@
 ## Requirements
 To learn about doing research about solving IT problems we where assigned groups with the task of making a presentation about applying a design pattren to solve a problem.
 
-## The Research
-
 ### Question
 *How to handle realtime events in a way allowing for future extensibility in a monolithic application?*
 
@@ -14,6 +12,8 @@ To learn about doing research about solving IT problems we where assigned groups
 
 *How to extend your code when using said methods?*
 
+## The research
+To research
 
 ## Result
 [[notification_desing_pattern_research-main.zip]]
