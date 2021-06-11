@@ -8,4 +8,6 @@ We kwamen er een beetje laat achter dat het toch wel erg belangrijk is om snel t
 ![[Sailboat Retrospective Action.jpg]]
 
 ## Resultaat
-Dit gaan zien we tijdens de volgende retrospective
+Tijdens de retrospective zijn we achter enkele knelpunten gekomen binnen ons team maar ik ben van mening dat we dit veel eerder een vaaker hadden moeten doen om ons team productiever te laten zijn.
+
+## Reflectie

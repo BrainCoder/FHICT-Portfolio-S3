@@ -13,7 +13,9 @@ To solve this problem I want program an esp8266 based dev board to syncronize th
 A simple but effective program writen in embeded C with an aproximation of object based programming.
 
 [Hue 2 Nanoleaf on Github](https://github.com/BrainCoder/Hue2Nanoleaf)
-![[Hue2Nanoleaf.zip]]
+
 
 ## Reflection
 I really enjoyed trying to use OOP style code in C 
+
+![[Hue2Nanoleaf 1.zip]]

@@ -16,7 +16,7 @@ To learn about doing research about solving IT problems we where assigned groups
 To research
 
 ## Result
-[[notification_desing_pattern_research-main.zip]]
+![[files/notification_desing_pattern_research-main.zip]]
 
 ![[feedback.png]]
 
