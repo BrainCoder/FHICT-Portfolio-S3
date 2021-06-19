@@ -8,6 +8,9 @@ We kwamen er een beetje laat achter dat het toch wel erg belangrijk is om snel t
 ![[Sailboat Retrospective Action.jpg]]
 
 ## Resultaat
-Tijdens de retrospective zijn we achter enkele knelpunten gekomen binnen ons team maar ik ben van mening dat we dit veel eerder een vaaker hadden moeten doen om ons team productiever te laten zijn.
+Tijdens de retrospective zijn we achter enkele knelpunten gekomen binnen ons team maar ik ben van mening dat we dit veel eerder een vaker hadden moeten doen om ons team productiever te laten zijn.
+
+![[Retrospective.zip]]
 
 ## Reflectie
+Ik was eerst van mening dat retrospectives niet echt nodig waren in een team dat gewoon openlijk communiceerde maar het bleek toch een zeer waardevolle tool om achter knelpunten te komen maar moet wel eerder en vaker worden toegepast.
